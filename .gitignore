@@ -1,0 +1,39 @@
+# ─── ESM Campaign — What's NOT in this repo ─────────────────────────────────
+# Generated images (~2.5 GB) live on disk + Higgsfield server.
+# Character sheets (male model.png, female model.png) are
+#   referenced from ESM SHOOT/2 charachter sheets/ locally.
+# To restore character sheets on a new machine:
+#   - Re-download from Higgsfield generate history, or
+#   - Re-sync from Nour's local drive
+# All planning, status, and decision docs ARE tracked.
+
+# ─── Generated images and videos ─────────────────────────────────────────────
+# All binary media excluded regardless of folder.
+# Every .md planning doc is still tracked automatically.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# ─── Archives ────────────────────────────────────────────────────────────────
+*.zip
+*.tar.gz
+*.rar
+
+# ─── Secrets ─────────────────────────────────────────────────────────────────
+.env
+*.env
+.env.*
+
+# ─── Browser automation state (large logs, not useful) ───────────────────────
+.playwright-mcp/
+
+# ─── OS noise ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
