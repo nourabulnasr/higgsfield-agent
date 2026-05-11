@@ -71,3 +71,6 @@ Updated after every generation approval.
 | 2026-05-11 | SL-MPB-S | APPROVED | job 130e9108. Refs: approved front UUID + MK-MPB UUID. |
 | 2026-05-11 | SL-MPB-D | APPROVED | job 535663af. Refs: approved front UUID + MK-MPB UUID. 1:1. |
 | 2026-05-11 | — | PRODUCT COMPLETE | M-PB beige polo: 4/4 done (F ✓ B ✓ S ✓ D ✓). All male products done. Moving to female products. |
+| 2026-05-12 | MK-MPO | APPROVED | v2. job 9a70d796. v1 rejected — wrong collar (ribbed polo) and wrong sleeves (regular short). Fix: used real product photo as primary cut ref (front beige linen polo v2.jpg) + M-FS olive set for color match. Key details confirmed: wide open revere collar, batwing short sleeves, extremely boxy fit, gold/brass buttons, left chest patch pocket, heavy crinkle-linen texture. Olive color = same degree as M-FS. BUTTON COUNT LOCKED: 3 buttons only (confirmed from real product photo). |
+| 2026-05-12 | SL-MPO-F | REDO | job 1f848c2a approved on character/styling but button count wrong (more than 3). v2 also failed on button count. Button count is a persistent issue — needs maximum emphasis in prompt. Real shirt has exactly 3 buttons. |
+| 2026-05-12 | SL-MPO-B | APPROVED | job ca6e6b58. Refs: back beige polo product photo (back silhouette anchor) + SL-MPO-F (character anchor). Clean back, olive, consistent character. |
