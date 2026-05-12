@@ -82,3 +82,9 @@ Updated after every generation approval.
 | 2026-05-13 | SL-MPO-D | APPROVED | job 689f8db4. Refs: SL-MPO-F-v9-real.png + MK-MPO-v2 + placket-detail.jpg. Tight chest crop 1:1, revere collar visible, patch pocket visible, linen texture clean. Button count verified by Nour. |
 | 2026-05-13 | — | PRODUCT COMPLETE | Olive polo — men: 4/4 done (F ✓ B ✓ S ✓ D ✓). All male + unisex products complete. Moving to female products. |
 | 2026-05-13 | — | NOTE | Some earlier male shots will be regenerated with the real-product-hanger-photo methodology at the end (refinement pass). Not blocking — female products first. |
+| 2026-05-13 | MK-FOS | APPROVED | Nour-made ghost mannequin (job 4e91c5bc). v1-v4 agent-generated all failed on center front strap length. Nour made the correct version directly. Rule: for garments with complex construction that AI cannot reproduce from text alone, Nour generates the ghost mannequin manually. File: MK-FOS-olive-skirt-mockup-approved.png. |
+| 2026-05-13 | SL-FOS-F | APPROVED | job a8414e3c. Refs: female character sheet + MK-FOS approved. Female character locked: 30s, long wavy brown hair, warm olive-brown skin, slim natural build. White crop top + olive skirt + tan sandals. Use SL-FOS-F.png as anchor for ALL remaining female shots. |
+| 2026-05-13 | SL-FOS-B | APPROVED | job 345b6a76. Refs: back.jpg (back product ref) + SL-FOS-F.png (char anchor). Clean plain back, no strap, consistent character. |
+| 2026-05-13 | SL-FOS-S | APPROVED | job 8f476bea. Refs: SL-FOS-F.png + MK-FOS approved. Side profile clean, straight silhouette, consistent character. |
+| 2026-05-13 | SL-FOS-D | APPROVED | job 9eb326c5. Refs: SL-FOS-F.png + close up front.jpg + MK-FOS approved. Center front strap and ruching read clearly in detail crop. Linen texture sharp. |
+| 2026-05-13 | — | PRODUCT COMPLETE | Olive long skirt — women: 4/4 done (F ✓ B ✓ S ✓ D ✓). Moving to beige set — women. |
