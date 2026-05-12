@@ -91,7 +91,11 @@
       "Bash(git commit *)",
       "Bash(git push *)",
       "Bash(higgsfield skill *)",
-      "Bash(python3 -c \"import sys,json; models=json.load\\(sys.stdin\\); [print\\(m.get\\('id',''\\), '|', m.get\\('name',''\\), '|', m.get\\('credit_cost', m.get\\('cost',''\\)\\)\\) for m in models if any\\(k in str\\(m\\).lower\\(\\) for k in ['inpaint','paint','edit','erase','remove']\\)]\")"
+      "Bash(python3 -c \"import sys,json; models=json.load\\(sys.stdin\\); [print\\(m.get\\('id',''\\), '|', m.get\\('name',''\\), '|', m.get\\('credit_cost', m.get\\('cost',''\\)\\)\\) for m in models if any\\(k in str\\(m\\).lower\\(\\) for k in ['inpaint','paint','edit','erase','remove']\\)]\")",
+      "Bash(magick --version)",
+      "Bash(convert --version)",
+      "Bash(python -c \"from PIL import Image; print\\('PIL OK'\\)\")",
+      "Bash(python *)"
     ]
   }
 }
