@@ -88,3 +88,17 @@ Updated after every generation approval.
 | 2026-05-13 | SL-FOS-S | APPROVED | job 8f476bea. Refs: SL-FOS-F.png + MK-FOS approved. Side profile clean, straight silhouette, consistent character. |
 | 2026-05-13 | SL-FOS-D | APPROVED | job 9eb326c5. Refs: SL-FOS-F.png + close up front.jpg + MK-FOS approved. Center front strap and ruching read clearly in detail crop. Linen texture sharp. |
 | 2026-05-13 | — | PRODUCT COMPLETE | Olive long skirt — women: 4/4 done (F ✓ B ✓ S ✓ D ✓). Moving to beige set — women. |
+| 2026-05-13 | MK-FBG-bottom | APPROVED | job a1f0329f. Agent-generated. Wide-leg palazzo pants, ribbon bows down both side seams correct. File: MK-FBG-bottom-mockup.png. |
+| 2026-05-13 | MK-FBG-top | APPROVED | Nour-made (job 6b73df31). Agent v1 distorted, v2 wrong sleeve shape. Nour made correct version: stand collar V-neckline, wide straight sleeves, rope drawstrings at collar and hem corners, boxy fit. File: MK-FBG-top-mockup-approved.png. Rule: complex construction ghost mannequins → Nour generates. |
+| 2026-05-13 | SL-FBG-F | APPROVED | v2. job a4c4d5c2. v1 rejected — top/bottom color mismatch. Fix: explicit color-match instruction. Refs: SL-FOS-F (char anchor) + MK-FBG-top + MK-FBG-bottom. Use SL-FBG-F-v2.png as anchor for all beige set shots. |
+| 2026-05-13 | SL-FBG-B | APPROVED | job eed26c02. Refs: back top + back bottom product refs + SL-FBG-F-v2 char anchor. Clean back, ribbon bows visible on both legs from behind. |
+| 2026-05-13 | SL-FBG-S | APPROVED | job 71b1e23e. Refs: SL-FBG-F-v2 + MK-FBG-top + MK-FBG-bottom. Side profile, bows stacked on side seam visible. |
+| 2026-05-13 | SL-FBG-D | APPROVED | job 0c6f95b8. Refs: SL-FBG-F-v2 + close up top + detail bottom. Rope drawstrings with metal tips sharp, waistband and bow visible. |
+| 2026-05-13 | — | PRODUCT COMPLETE | Beige set — women: 4/4 done (F ✓ B ✓ S ✓ D ✓). Moving to light blue set. |
+| 2026-05-13 | MK-FLB-top | APPROVED | job 19fb77de. Agent-generated. Dusty light blue #B3C7DF, same construction as beige top. Rope drawstrings + silver tips correct. File: MK-FLB-top-mockup.png. |
+| 2026-05-13 | MK-FLB-bottom | APPROVED | job 83e64e5c. Agent-generated. Matching light blue, wide-leg with side ribbon bows correct. File: MK-FLB-bottom-mockup.png. |
+| 2026-05-13 | SL-FLB-F | APPROVED | Refs: SL-FBG-F-v2 (char anchor) + MK-FLB-top + MK-FLB-bottom. Dusty light blue #B3C7DF correct across top and bottom. Drawstring V-collar and cinched hem correct. Ribbon bows on both legs. Consistent female character. |
+| 2026-05-13 | SL-FLB-B | APPROVED | Refs: SL-FBG-B + MK-FLB-top + MK-FLB-bottom. Clean back, ribbon bows visible on both legs from behind. Consistent character. |
+| 2026-05-13 | SL-FLB-S | APPROVED | Refs: SL-FBG-S + MK-FLB-top + MK-FLB-bottom. Side profile clean, wide-leg silhouette with bows on visible leg. |
+| 2026-05-13 | SL-FLB-D | APPROVED | Refs: SL-FBG-F-v2 + MK-FLB-top + MK-FLB-bottom. Drawstring collar and cinched hem drawstring with metal tips sharp. Linen texture visible. |
+| 2026-05-13 | — | PRODUCT COMPLETE | Light blue set — women: 4/4 done (F ✓ B ✓ S ✓ D ✓). All female products complete. Campaign studio shots done. |
